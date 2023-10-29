@@ -115,3 +115,34 @@ Kelas  : TI.22.A1
    Maukkan nilai berapapun pada BIL lalu click TEBAK, contoh:
 
    ![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/fb619b16-fb02-412b-a851-706e81a91e39)
+
+   **Form Button**
+
+   **VSCode HTML dan Hasil Run**
+
+   ![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/2aa5c065-f232-4cd5-8089-3d181427310b)
+
+   Pilih warna Latar Belakang dan warna teks yang ada pada pilihan, contoh:
+
+   ![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/6df2dcb6-61b1-4df4-a0b9-3c4a516e76c8)
+
+**HTML DOM**
+
+**Pilihan menggunakan checkBox dengan perhitungan otomatis**
+
+**VSCode HTML**
+
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/137740b0-d16e-4446-8cf2-294aefe14bd1)
+
+**Hasil Run**
+
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/6db8d2cb-4a20-4b85-bd6b-b72187f04b1e)
+
+**Pertanyaan dan Tugas**
+1. Buat script untuk melakukan validasi pada isian form.
+
+**VSCode HTML**
+
+
+**Hasil Run**
+
