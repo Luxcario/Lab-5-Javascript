@@ -1,4 +1,4 @@
-# Lab-5-Javascript
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/3d5ae697-4399-43f2-80bf-e8966637be2c)# Lab-5-Javascript
 
 Nama   : Muhamad David Ali
 
@@ -132,11 +132,17 @@ Kelas  : TI.22.A1
 
 **VSCode HTML**
 
-![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/137740b0-d16e-4446-8cf2-294aefe14bd1)
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/bcbece8e-87b9-420f-b140-1bd025641dc1)
+
 
 **Hasil Run**
 
 ![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/6db8d2cb-4a20-4b85-bd6b-b72187f04b1e)
+
+Click pada pilihan, maka hasilnya:
+
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/37e40837-fefa-411a-abba-abd220f54c77)
+
 
 **Pertanyaan dan Tugas**
 1. Buat script untuk melakukan validasi pada isian form.
