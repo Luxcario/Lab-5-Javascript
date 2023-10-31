@@ -148,7 +148,58 @@ Click pada pilihan, maka hasilnya:
 1. Buat script untuk melakukan validasi pada isian form.
 
 **VSCode HTML**
+```
+<htlm>
+	<head>
+		<title>Form Validasi</title>
+		<script>
+			function Validasi(){
+				var name = document.getElementById["fv"]("name").value;
+				var email = document.getElementById["fv"]("email").value;
+				var password = document.getElementById["fv"]("password").value;
 
-
+				if(name==""){
+					alert("Nama tidak boleh kosong")
+					return false;
+				}
+				if(email==""){
+					alert("email tidak boleh kosong")
+					return false;
+				} var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+				if(!emailPattern){
+					alert("Email tidak valid, masukkan email dengan benar")
+				}
+				if(password.length<8){
+					alert("password minimal menggunakan 8 karakter")
+					return false;
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div id="form">
+			<form name="fv" onsubmit="return Validasi()" method="post">
+				<div class="l-name">
+					<label for="name">Nama</label>
+					<input type="text" name="Nama" placeholder="Masukkan Nama" required>
+				</div>
+				<div>
+					<label for="email"> Email</label>
+					<input type="email" name="Email" placeholder="Masukkan Email" required>
+				</div>
+				<div>
+					<label for="password">Password</label>
+					<input type="password" name="password" placeholder="Password" required>
+				</div> 
+				<input type="submit" value="submit">
+			</form>
+		</div>
+	</body>
+</htlm>
+```
 **Hasil Run**
+
+![image](https://github.com/Luxcario/Lab-5-Javascript/assets/116184002/2186fe3f-a789-4127-a2ff-90e068fddd61)
+
+
 
